@@ -4,7 +4,7 @@ main{
     display: flex;
 }
 .left{
-    background-image: url(../images/Frame.png);
+    background-image: url(../images/frame.png);
     height: 100vh;
     background-size: cover;
     flex-basis: 50%;
